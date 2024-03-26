@@ -1,0 +1,94 @@
+﻿  FileName.cpp
+C:\Users\young\Downloads\opencv-4.8.0\build\install\include\opencv2\core.hpp(1187,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\young\Downloads\opencv-4.8.0\build\install\include\opencv2\core.hpp(1187,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\young\Downloads\opencv-4.8.0\build\install\include\opencv2\core.hpp(1187,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\young\Downloads\opencv-4.8.0\build\install\include\opencv2\xfeatures2d.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(88,53): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(89,62): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(89,50): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(90,70): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(90,25): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(91,25): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(211,68): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(211,53): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(229,65): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(229,51): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(235,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(236,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(244,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(245,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(246,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\CV\FileName.cpp(247,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+  CV.vcxproj -> C:\Users\young\OneDrive\바탕 화면\2023-2\컴퓨터 비전\과제#2\과제 2-2\x64\Debug\CV.exe
