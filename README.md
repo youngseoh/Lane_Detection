@@ -22,8 +22,13 @@ OpenCV를 활용하여 video에서의 도로의 차선을 검출하는 방법을
     - Draw the detected lane lines and fill the lane area with red using `fillConvexPoly()`.
     - Draw the lane boundaries with yellow lines using `line()`.
 
+for more information, [Report](https://drive.google.com/file/d/1snk370-txn2Kq3XPbealdH5UUNiuM_b4/view?usp=drive_link)
+
 ## Results
 
 - clip1
+![image](https://github.com/youngseoh/Lane_Detection/assets/100707876/b1369823-6d91-4e07-9a19-14c66207020c)
 - clip2
+![image](https://github.com/youngseoh/Lane_Detection/assets/100707876/c6f529b4-e229-4be2-8629-f6975a723acf)
 - clip3
+  ![image](https://github.com/youngseoh/Lane_Detection/assets/100707876/40cfa5b5-59cb-41e4-a128-3faacaa2cfb3)
